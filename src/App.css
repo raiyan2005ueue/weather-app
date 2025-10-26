@@ -4,11 +4,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .app {
-  min-height: 100vh;
+  height: auto;
   display: grid;
   background-color: #e2d4ff;
 }
